@@ -270,6 +270,7 @@ def customer_menu():
 
 def close():
     print("\n\n\n\nThis Python Mini Project is developed by Aloukik")
+    exit(0)
 
 def menu():
     # Ask if the user is a customer or an employee
